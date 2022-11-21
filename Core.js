@@ -4738,9 +4738,9 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
     if (isBan) return reply(mess.banned)	 			
     if (isBanChat) return reply(mess.bangc)
       
- const helpmenu = `Konichiwa *${pushname}* Senpai,
+ const helpmenu = `Konichiwa *${pushname}* Dear💕,
 
-I am *𝐇𝐢𝐧𝐚𝐭𝐚💝*, a bot Modified by *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ*.
+I am *𝐇𝐢𝐧𝐚𝐭𝐚🤒*, a bot developed by *𝐌𝐑. 𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐫*.
 
 🔰 My prefix is:  ${prefix}
 
@@ -4752,7 +4752,7 @@ Here's the list of my Commands.
 
 speak, Hinata, stalk, profile, help, delete, deleteall, listgc, listpc, welcome, support, repo, script 
  
- *━━━〈  🎀 Ɲᴇꪎꪎᴇʀ 🎀  〉━━━*
+ *━━━〈  🎀 Owner 🎀  〉━━━*
 
 self, public, ban, bangroup, bye, join, bye, block, unblock, broadcast 
 
@@ -4814,7 +4814,7 @@ qr, say, translate, fliptext, toletter, weather
 
 
  『  *${global.BotName}*  』
- Powered by: *Ɲᴇꪎꪎᴇʀ  ꢺᴀϻᴀ*
+ Powered by: *𝐌𝐑. 𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐫*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
