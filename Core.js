@@ -4740,7 +4740,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       
  const helpmenu = `Konichiwa *${pushname}* Dear💕,
 
-I am *𝐇𝐢𝐧𝐚𝐭𝐚❤*, a bot developed by *𝐌𝐑. 𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐫*.
+I am *𝐇𝐢𝐧𝐚𝐭𝐚❤*, a bot developed by *𝐌𝐑 𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐫*.
 
 🔰 My prefix is:  ${prefix}
 
@@ -4814,7 +4814,7 @@ qr, say, translate, fliptext, toletter, weather
 
 
  『  *${global.BotName}*  』
- Powered by: *⚡𝐌𝐑. 𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐫⚡*
+ Powered by: *⚡𝐌𝐑 𝐒𝐮𝐩𝐞𝐫𝐢𝐨𝐫⚡*
 
  🔰 To use any of these commands type 
  " *${prefix}<Command name>* ".
